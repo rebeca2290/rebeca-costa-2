@@ -1,0 +1,16 @@
+h1{
+    color: rgb(241, 67, 204);
+    background-color: rgb(251, 166, 223);
+}
+.text{
+    background-color: rgb(251, 147, 199);
+}
+.fazermos {
+    background-color: rgba(241, 156, 196, 0.774);
+    text-size-adjust: 50px;
+
+}
+.preparo {
+  background-color: rgba(255, 189, 224, 0.904);
+  margin:50px;
+}
